@@ -2,11 +2,12 @@
 
 ### Estrura Inicial 
 
-package com.excript.(nome do projeto
+package com.excript.(nome do projeto)
 
 import (dependencias)
 
-public class 
+public class Main {
+   public static void main(String[] args) {
 
 
 ### Comandos
