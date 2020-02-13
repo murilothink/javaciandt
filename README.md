@@ -1,5 +1,14 @@
 # Exercicios Java e Estudo da Linguagem
 
+### Estrura Inicial 
+
+package com.excript.(nome do projeto
+
+import (dependencias)
+
+public class 
+
+
 ### Comandos
 
 System.out.println; : Print algo na tela 
