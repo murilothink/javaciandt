@@ -1,4 +1,4 @@
-# Exercicios Java e estudo da Linguagem
+# Exercicios Java e Estudo da Linguagem
 
 ### Comandos
 
