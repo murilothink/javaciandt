@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.Calendar;
 /**
 *
-* @author JBS
+* 
 */
 public class Main {
    public static void main(String[] args) {
